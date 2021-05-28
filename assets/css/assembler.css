@@ -1,0 +1,107 @@
+/*FONTS*/
+
+@import url(//db.onlinewebfonts.com/c/0b51833ff62e4af8acb5fd3e2bf59e97?family=SF+Pro+Display);
+
+/*LOGO*/
+
+.l-header {
+    background-color: #0a0a0a;
+    height: 80px;
+    position: relative;
+    z-index: 1000;
+}
+
+.logo-android__andy-icon {
+    fill: #cecece;
+}
+
+.android_letters {
+    fill: #cecece;
+}
+
+
+/*Hidden NAV bar*/
+
+.l-header .c-nav__header {
+    border-bottom: 1px solid #b0bec5;
+    height: 120px;
+    position: relative;
+    background-color: #0a0a0a;
+}
+
+.c-search input {
+    border: 0;
+    color: #92989b;
+    line-height: normal;
+    padding: 11px 55px 11px 20px;
+    width: 100%;
+    background-color: #0a0a0a;
+}
+
+.c-search {
+    background-color: #0a0a0a;
+    padding: 19px 0;
+}
+
+.c-nav--main [role='menuitem'].has-divider {
+    background-color: #0a0a0a;
+}
+
+.c-nav [role='menuitem'] {
+    font-size: 14px;
+    font-size: .875rem;
+    letter-spacing: -.56px;
+    letter-spacing: -.035rem;
+    color: #92989b;
+    cursor: pointer;
+    display: block;
+    font-weight: normal;
+    line-height: 1.35;
+    padding: 20px;
+    text-transform: uppercase;
+    background-color: black;
+}
+
+.c-language-selector {
+    background-color: #0a0a0a;
+}
+
+.c-select {
+    background-color: #0a0a0a;
+}
+
+#language-selector-header-phones {
+    background-color: #0a0a0a;
+    color: #cecece;
+}
+
+
+/*BODY*/
+
+
+/*jumpsection*/
+
+#section-hero .l-section .o-container {
+    background-color: #f2f2f2;
+}
+
+
+/*FOOTER*/
+
+.l-footer {
+    background-color: black;
+}
+
+select {
+    background-color: black;
+    color: #cecece;
+}
+
+#language-selector-footer-phones {
+    background-color: black;
+}
+
+label {
+    background-color: black;
+    color: #cecece;
+}
