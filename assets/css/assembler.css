@@ -52,13 +52,13 @@
     font-size: .875rem;
     letter-spacing: -.56px;
     letter-spacing: -.035rem;
-    color: #92989b;
+    color: #cecece;
     cursor: pointer;
     display: block;
     font-weight: normal;
     line-height: 1.35;
     padding: 20px;
-    text-transform: uppercase;
+    text-transform: initial;
     background-color: black;
 }
 
@@ -85,23 +85,15 @@
     background-color: #f2f2f2;
 }
 
+.carousel-reductor {
+    max-width: "1200px";
+    margin: 0 auto;
+}
+
 
 /*FOOTER*/
 
-.l-footer {
-    background-color: black;
-}
-
-select {
-    background-color: black;
-    color: #cecece;
-}
-
-#language-selector-footer-phones {
-    background-color: black;
-}
-
-label {
-    background-color: black;
+footer label select {
+    background-color: #0a0a0a;
     color: #cecece;
 }
