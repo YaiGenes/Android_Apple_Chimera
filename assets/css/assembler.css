@@ -118,10 +118,44 @@ html {
     color: grey;
 }
 
+.o-container {
+    box-sizing: initial;
+    padding: 40px;
+    background-color: black;
+    color: #cececece;
+}
+
+.o-container2 {
+    padding: 40px;
+    background-color: black;
+    color: #cececece;
+}
+
+.o-container3 {
+    padding: 40px;
+    background-color: black;
+    color: #cececece;
+}
+
 
 /*FOOTER*/
 
-footer label select {
+.c-select {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    color: #cecece;
+}
+
+.l-footer__metadata {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    color: #cecece;
+}
+
+.language-selector-footer-phones {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    color: #cecece;
+}
+
+.google_nav {
     background-color: rgba(0, 0, 0, 0.8) !important;
     color: #cecece;
 }
